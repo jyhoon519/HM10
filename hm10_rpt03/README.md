@@ -1,7 +1,7 @@
-#HM10
-##html5 과제 창고
-###정영훈
-####사용한 파일
+# HM10
+## html5 과제 창고
+### 정영훈
+#### 사용한 파일
 - hm10_best3.html
 - hm10_card.html
 - hm10_day.html
@@ -9,7 +9,7 @@
 - hm10_info.html
 - hm10_time.html
 - hm10_rpt03.html
-#####사용한 기법
+##### 사용한 기법
 - newdate를 사용해 현재시간 출력
 - 마우스올리면 이미지 넘기기
 - 이미지 클릭해서 넘기기
